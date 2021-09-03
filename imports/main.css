@@ -1,4 +1,4 @@
-/* Zelk v1.2 */
+/* Topo v1.2 */
 /* imports */
 @import url('https://rsms.me/inter/inter.css');
 /* background */
@@ -447,13 +447,13 @@
   font-size: 20px;
 }
 .info-1VyQPT::after {
-  content: "Zelk 1.2";
+  content: "Topo 1.2";
   color: var(--text-muted);
   font-size: 12px;
   line-height: 16px;
 }
 div[role="radiogroup"]+div:not(.disabled-2HSEFa) label::after {
-  content: "\A Enabling this setting will cause issues when using Zelk";
+  content: "\A Enabling this setting will cause issues when using Topo";
   white-space: pre;
   color: var(--text-danger);
   font-size: 14px;
@@ -1672,7 +1672,7 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   --outdated: block;
 }
 body:not(.powercord) .panels-j1Uci_::before {
-  content: "Please update to Zelk v1.2";
+  content: "Please update to Topo v1.2";
   font-weight: 600;
   color: var(--text-normal);
   text-align: center;
@@ -1684,7 +1684,7 @@ body:not(.powercord) .panels-j1Uci_::before {
   border-top: 1px solid var(--border-color);
 }
 body:not(.powercord) .panels-j1Uci_::after {
-  content: "Download from betterdiscord.app/theme/zelk\AGet support at discord.gg/tMEcBhsNqA";
+  content: "Download from betterdiscord.app/theme/Topo\AGet support at discord.gg/tMEcBhsNqA";
   white-space: pre;
   font-size: 12px;
   color: var(--text-muted);
